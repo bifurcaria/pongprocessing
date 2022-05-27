@@ -9,11 +9,10 @@ the following code shows the implementation of a basic pong game in processing v
   * archivo [potenciometerPong.pde](codigo_arduino/potenciometerPong.pde) : recibe entrada de datos potenciómetro y convierte este input en la posición del paddle.
 * carpeta [imagenes/](imagenes/): contiene las imágenes de cómo armar el circuito.
 * archivo [README.md](README.md): documentación.
-* archivo [README.pdf](README.pdf): este archivo pero convertido a PDF.
 
 ## acerca de
 
-este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso  aud5i022-2022-1.
+este proyecto de mitad de semestre fue hecho en el día martes 10 de mayo 2022, como parte del curso aud5i022-2022-1.
 
 las integrantes son [bifurcaria](https://github.com/bifurcaria), [xpsaldivia](https://github.com/xpsaldivia) y [Kazelita](https://github.com/Kazelita)
 
